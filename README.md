@@ -7,9 +7,12 @@
 * HTML
 * CSS
 
-## Website Refraction Purpose
+## Website Purpose
 
-The purpose of this challenge is to take the starter code and refract it to increase accessibility to other developers. It allows links to function properly, consolidates CSS selectors and properties and restructures and simplifies HTML elements.
+The purpose is to take the starter code and refract it to increase accessibility to other developers. It allows links to function properly, consolidates CSS selectors and properties and restructures and simplifies HTML elements.
+
+## Wedsite url
+
 
 
 ## Screenshot
