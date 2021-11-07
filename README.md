@@ -13,8 +13,7 @@ The purpose is to take the starter code and refract it to increase accessibility
 
 ## Wedsite url
 
-
+https://synui.github.io/horiseon-online-presence/
 
 ## Screenshot
 ![Horiseon](https://user-images.githubusercontent.com/92822589/140654725-9e4ae645-23b7-4cac-a797-50f0e4f2475e.png)
-
